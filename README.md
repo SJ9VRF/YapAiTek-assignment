@@ -10,3 +10,11 @@ I must state that I wanted to model it using a time regressor for repeated shows
 - the data is uploaded on google_drive
 
 - the development data is selected like as time range of test data
+
+- the final result is as follows:
+
+MAE, R-Score
+train:
+(0.30186724917237595, 0.6395927056645858)
+dev:
+(0.35314016986727287, 0.4878192698923055)
